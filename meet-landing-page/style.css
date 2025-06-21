@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.upper {
+    display: flex;
+}
+
+.left-container, .right-container {
+    margin-top: 10em;
+}
+
+.middle-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2em;
+    margin-left: 10em;
+    margin-right: 10em;
+}
