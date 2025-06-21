@@ -9,6 +9,10 @@ body {
     display: flex;
 }
 
+.right-container img, .left-container img {
+    width: 500px;
+}
+
 .left-container, .right-container {
     margin-top: 10em;
 }
@@ -19,6 +23,11 @@ body {
     justify-content: center;
     align-items: center;
     margin-top: 2em;
-    margin-left: 10em;
-    margin-right: 10em;
+    margin-left: 13em;
+    margin-right: 13em;
 }
+
+.logo {
+    margin-bottom: 5em;
+}
+
